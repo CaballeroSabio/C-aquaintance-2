@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+Console.Clear();
 Console.WriteLine("Hello, World!");
 int a1 = 12;
 int b1 = 12;
